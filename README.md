@@ -36,3 +36,15 @@ credit-score-prediction-deployment/
 ├── pipeline.py
 ├── requirements.txt
 └── README.md
+```
+## Deployment
+
+The trained model was deployed as an interactive Streamlit application, allowing users to input customer information and receive a predicted credit score.
+
+## Highlights
+
+End-to-end machine learning workflow
+Reproducible preprocessing pipeline
+Model evaluation and comparison
+MLflow experiment tracking
+Interactive Streamlit application
